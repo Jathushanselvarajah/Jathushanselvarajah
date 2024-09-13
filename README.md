@@ -5,13 +5,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jathushanselvarajah&color=brightgreen) 
 [![GitHub followers](https://img.shields.io/github/followers/jathushanselvarajah?label=Followers&style=social)](https://github.com/jathushanselvarajah)
 
-Je suis un étudiant en développement web avec une passion pour le back-end. À 20 ans, j'apprends et développe des compétences dans divers domaines de la programmation, y compris Symfony, Vue.js, PHP, C++, Godot et Unity.
+Je suis un étudiant en développement web avec une passion pour le back-end. À 20 ans, j'apprends et développe des compétences dans divers domaines de la programmation.
 
 ---
 
 ## 🚀 Projets récents
-- [**Green Score**]([https://mmi22g05.sae401.ovh/]) – Découvrez votre impact sur l'environnement ! 
 
+- [**Green Score**]([https://mmi22g05.sae401.ovh/]) – Découvrez votre impact sur l'environnement !
+- [**Portfolio**]([https://mmi22g05.sae401.ovh/]](https://mmi22g05.mmi-troyes.fr/]) – Découvrez votre impact sur l'environnement !
+  
 ---
 
 ## 🛠 Technologies et outils
@@ -44,8 +46,7 @@ Je suis un étudiant en développement web avec une passion pour le back-end. À
 ## 🌱 Ce que j'apprends actuellement
 - Développement **Symfony** et **Vue.js** pour des projets web dynamiques.
 - Création de jeux en **Godot** et **Unity**.
-- Amélioration des compétences en **C++** pour des projets plus complexes.
-
+  
 ---
 
 ## 📊 Statistiques GitHub
@@ -55,6 +56,6 @@ Je suis un étudiant en développement web avec une passion pour le back-end. À
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jathushan-selvarajah)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jathushan.selvarajah@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)]([(https://www.linkedin.com/in/jathushan-selvarajah-6a2863267/])
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jathushan.selvarajah@gmail.com)
 
