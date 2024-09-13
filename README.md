@@ -11,9 +11,9 @@ Je suis un étudiant en développement web avec une passion pour le back-end. À
 
 ## 🚀 Projets récents
 
-- [**Green Score**]([https://mmi22g05.sae401.ovh/]) – Découvrez votre impact sur l'environnement !
-- [**Portfolio**]([https://mmi22g05.sae401.ovh/]) – Découvrez votre impact sur l'environnement !
-  
+- [**Green Score**](https://mmi22g05.sae401.ovh/) – Découvrez votre impact sur l'environnement !
+- [**Portfolio**](https://mmi22g05.sae401.ovh/) – Découvrez mon travail et mes projets !
+
 ---
 
 ## 🛠 Technologies et outils
