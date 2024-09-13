@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jathushan Selvarajah!
+# 👋 Hello, I'm Jathushan Selvarajah !
 
 ## 💻 Junior Web Developer | 🎓 Student at IUT de Troyes
 
@@ -47,12 +47,6 @@ Je suis un étudiant en développement web avec une passion pour le back-end. À
 - Développement **Symfony** et **Vue.js** pour des projets web dynamiques.
 - Création de jeux en **Godot** et **Unity**.
   
----
-
-## 📊 Statistiques GitHub
-![Les statistiques GitHub](https://github-readme-stats.vercel.app/api?username=jathushanselvarajah&show_icons=true&theme=radical&count_private=true)
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=jathushanselvarajah&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Me contacter
