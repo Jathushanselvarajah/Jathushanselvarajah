@@ -50,7 +50,7 @@ Je suis un étudiant en développement web avec une passion pour le back-end. À
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jathushan-selvarajah-6a2863267/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in//)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jathushan.selvarajah@gmail.com)
 
 
